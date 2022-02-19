@@ -1,4 +1,4 @@
-# chomp-code assembler and disassembler test suite [![License](https://img.shields.io/github/license/chomp-code/specification.svg)](https://github.com/chomp-code/specification/blob/master/license) [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
+# chomp-code assembler and disassembler test suite [![License](https://img.shields.io/github/license/chomp-code/assembler-and-disassembler-test-suite.svg)](https://github.com/chomp-code/assembler-and-disassembler-test-suite/blob/master/license) [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 
 ## Directory Structure
 
